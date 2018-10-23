@@ -8,10 +8,10 @@ html, body {
 }
 h1 {
     font-size: calc(36px + (26 - 14) * ((100vw - 300px) / (1600 - 300)));
-    font-weight: 900;
-    line-height: 44px;
+    font-weight: 200;
+    line-height: 60px;
     color: #fff;
-    text-align: center;
+    text-align: left;
 }
 h2 {
     font-size: 12px;
